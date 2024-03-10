@@ -14,12 +14,13 @@ public class forLoop {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number you want table of: ");
 		int n = sc.nextInt();
+
 		int b;
 		for(int i = 1; i<=10; i++) {
 			b = n * i;
 			System.out.println(b);
-			sc.next();
 		}
+		sc.close();
 		
 	}
 
