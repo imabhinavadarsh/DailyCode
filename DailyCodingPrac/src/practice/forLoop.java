@@ -18,6 +18,7 @@ public class forLoop {
 		for(int i = 1; i<=10; i++) {
 			b = n * i;
 			System.out.println(b);
+			sc.next();
 		}
 		
 	}
