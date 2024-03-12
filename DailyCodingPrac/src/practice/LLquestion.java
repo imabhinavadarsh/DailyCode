@@ -1,4 +1,4 @@
-//Make a LinkedList and add the following elements to it (1,25,7,3,8,2,3,); 
+//Make a LinkedList and add the following elements to it (1,5,7,3,8,2,3,); 
 //now your task it to search for the number 7 and display its index
 package practice;
 import java.util.LinkedList;
